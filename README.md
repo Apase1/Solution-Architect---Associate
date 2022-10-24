@@ -58,7 +58,7 @@ Các stateless process có thể thực thi hoàn toàn độc lập do đó d�
 - Factor eleven: Logs: Logs quan trọng trong việc ghi lại các sự kiện của container đó trong thời gian dài , và sẽ có công cụ hỗ trợ điều đó với container.
 - Factor 12: Admin Processes: các task nên được chạy ở console app , như thêm dữ liệu vào cơ sở dữ liệu , không phải chạy trực tiếp trên cơ sở dữ liệu mà chạy ở bảng điều khiển chính . và phải thiết kế để các nhà phát triển có thể truy cập quyền quản trị tất cả dịch vụ và tùy chỉnh nó được trên bảng đó.
 
-Chạy thực tế: 
+Chạy thực tế: https://github.com/dockersamples/example-voting-app/blob/master/docker-compose.yml
 
 https://cloudacademy.com/course/introduction-to-docker-2/course-intro-1/
 
