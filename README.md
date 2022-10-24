@@ -15,4 +15,10 @@ Với lựa chọn số 1: On-Demand. chúng ta có thể tạo máy chủ bất
 
 Với lựa chọn số 2: Reserved-Instances, Option này cho bạn khả năng giảm giá cho cấu hình của 1 máy chủ đã định sẵn lên tới 75% trong thời hạn từ 1 đến 3 năm. Và nó có 3 sự lựa chọn thanh toán , lựa chọn 1 thanh toán tất cả và không có thêm khoản phí nào phát sinh và bạn sẽ hưởng ưu đãi ở mức cao nhất, lựa chọn 2 là trả trước nhỏ hơn so với lựa chọn 1 , và bạn sẽ được hưởng ưu đãi tương ứng với số giờ bạn sài trong thời hạn đã định , lựa chọn 3 là  thanh toán sau
 
+Với lựa chọn số 3: Scheduled Instances, máy chủ sẽ được chạy trong một khung giờ nhất định ở trong ngày , tuần , tháng do bạn lựa chọn. Lựa chọn này dùng để xử lý những công việc có tính chất lặp đi lặp lại theo khung giờ nhất định . Lưu ý: kể cả khi máy chủ không bật thì bạn vẫn bị tính phí cho thời hạn duy trì nó.
+
 Với lựa chọn số 4: Spot Instances, AWS có những máy chủ không có người sử dụng và đang để trống , để tránh lãng phí AWS cho thuê lại chúng với giá rất rẻ khi ngang cấu hình so với lựa chọn 1 cho những người dùng cần sài, tuy nhiên vì như thế cho nên nếu có những người sử dụng khác có nhu cầu sài máy chủ đó , AWS sẽ thông báo thu hồi lại máy chủ bạn đang thuê theo hình thức này trước 2 phút để bạn chuẩn bị các thao tác lưu trữ v.v.
+
+Với lựa chọn số 5: On-Demand Capacity Reservations, giúp bạn đặt trước các cấu hình máy chủ ảo theo yêu cầu của bạn trong các trường hợp cần thiết và sẽ luôn có sẵn để bạn có thể sử dụng nó . và cũng sẽ có ưu đãi cho việc sử dụng lựa chọn này.
+
+Dưới đây là link lab cho phần này: https://cloudacademy.com/lab/create-your-first-amazon-ec2-instance/ or 
