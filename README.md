@@ -62,3 +62,6 @@ Chạy thực tế: https://github.com/dockersamples/example-voting-app/blob/mas
 
 https://cloudacademy.com/course/introduction-to-docker-2/course-intro-1/
 
+ECS: Elastic Container Service: Là một dịch vụ cho phép bạn tập trung phát triển phần mềm, ứng dụng chạy nó trên các docker container với máy chủ EC2 mà không cần phải để ý đến việc quản lý , theo dõi server và chuyển trách nhiệm quản lý đó qua dịch vụ AWS Fargate
+
+
